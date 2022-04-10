@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-check-your-knowledge/static/css/main.6dcf714d.css",
-    "main.js": "/react-check-your-knowledge/static/js/main.02070cab.js",
+    "main.js": "/react-check-your-knowledge/static/js/main.32cc2fbc.js",
     "index.html": "/react-check-your-knowledge/index.html",
     "main.6dcf714d.css.map": "/react-check-your-knowledge/static/css/main.6dcf714d.css.map",
-    "main.02070cab.js.map": "/react-check-your-knowledge/static/js/main.02070cab.js.map"
+    "main.32cc2fbc.js.map": "/react-check-your-knowledge/static/js/main.32cc2fbc.js.map"
   },
   "entrypoints": [
     "static/css/main.6dcf714d.css",
-    "static/js/main.02070cab.js"
+    "static/js/main.32cc2fbc.js"
   ]
 }
